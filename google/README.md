@@ -16,7 +16,7 @@ Here we will show the basic steps for logging in/signing up with Google. First:
 // in Application.onCreate(); or somewhere similar
 ParseGoogleUtils.initialize(getString(R.string.default_web_client_id));
 ```
-If you have already configured [Firebase](https://firebase.google.com/docs/android/setup) in your project, the above will work. Otherwise, you might instead need to replace `getString(R.id.default_web_client_id` with a web configured OAuth 2.0 API client ID.
+If you have already configured [Firebase](https://firebase.google.com/docs/android/setup/keyup) in your project, the above will work. Otherwise, you might instead need to replace `getString(R.id.default_web_client_id` with a web configured OAuth 2.0 API client ID.
 
 Within the activity where your user is going to log in with Google, include the following:
 ```java
