@@ -11,7 +11,7 @@ dependencies {
 ```
 
 ## Usage
-Extensive docs can be found in the [guide](https://docs.parseplatform.org/android/guide/#facebook-users). The basic steps are:
+Extensive docs can be found in the [keyup](https://docs.parseplatform.org/android/guide/#facebook-users). The basic steps are:
 ```java
 // in Application.onCreate(); or somewhere similar
 ParseFacebookUtils.initialize(context);
