@@ -3,7 +3,7 @@
 ---
 
 [![Build Status](https://github.com/parse-community/Parse-SDK-Android/workflows/ci/badge.svg?branch=master)](https://github.com/parse-community/Parse-SDK-Android/actions?query=workflow%3Aci+branch%3Amaster)
-[![Snyc Badge](https://snyk.io/test/github/parse-community/Parse-SDK-Android/badge.svg)](https://snyk.io/test/github/parse-community/Parse-SDK-Android)
+[![Snyk Badge](https://snyk.io/test/github/parse-community/Parse-SDK-Android/badge.svg)](https://snyk.io/test/github/parse-community/Parse-SDK-Android)
 [![codecov](https://codecov.io/gh/parse-community/Parse-SDK-Android/branch/master/graph/badge.svg)](https://codecov.io/gh/parse-community/Parse-SDK-Android)
 
 [![android min api](https://img.shields.io/badge/Android_API->=21-66c718.svg)](https://github.com/parse-community/parse-dashboard/releases)
